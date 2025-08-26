@@ -2,6 +2,10 @@
 
 This repository contains notes and details from a Dungeons & Dragons 5e campaign, "Lost Mine of Phandelver." 
 
+### Sources
+- [5eTools](https://5e.tools/)
+- [D&D Beyond](https://www.dndbeyond.com/)
+
 ### Campaign Overview
 
 *   **Campaign:** Lost Mine of Phandelver (D&D 5e)
@@ -12,7 +16,7 @@ This repository contains notes and details from a Dungeons & Dragons 5e campaign
 
 *   Fa (Jarrik)
 *   Zalaris/Zelaerys (Sam)
-*   Cappy (Anouk) - *DECEASED*
+*   Captain Aihmee Yardal aka. Cappy (Anouk) - *DECEASED*
 *   Darrin/Dárin (Egon)
 *   Lissandra/Lyssandra (Anke)
 
