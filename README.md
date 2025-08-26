@@ -38,7 +38,7 @@ This repository contains notes and details from a Dungeons & Dragons 5e campaign
 *   Halia Thornton
 *   Harbin Wester
 *   Larno/Glasstaff
-*   "The Spider"
+*   "The Snake"
 *   Necromancer
 *   Banshee
 
@@ -49,7 +49,7 @@ This repository contains notes and details from a Dungeons & Dragons 5e campaign
 *   They sought information from a banshee and encountered a necromancer.
 *   The party faced a green dragon in Thundertree.
 *   They explored Cragmaw Castle and Wave Echo Cave.
-*   The campaign concluded with the defeat of "The Spider," but with the tragic death of Cappy.
+*   The campaign concluded with the defeat of "The Snake," but with the tragic death of Cappy.
 
 ### Unresolved Plot Threads
 

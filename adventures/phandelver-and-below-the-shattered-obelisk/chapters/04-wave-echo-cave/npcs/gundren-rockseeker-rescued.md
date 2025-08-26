@@ -19,7 +19,7 @@ Seeks to restore his family's mining operation and honor the Phandelver's Pact w
 ## Appearance
 **Physical**: Typical mountain dwarf build, graying brown beard, weathered hands
 **Condition**: Shows signs of recent captivity - bruises, torn clothing, exhaustion
-**Equipment**: Simple clothes, lacks his original gear (captured by Black Spider)
+**Equipment**: Simple clothes, lacks his original gear (captured by Black Snake)
 **Demeanor**: Grateful but determined, eyes show both weariness and resolve
 
 ## Personality
@@ -62,7 +62,7 @@ Gundren Rockseeker (Dwarf Noble/Merchant):
 ### Mental State
 - **Gratitude**: Overwhelmingly thankful to rescuers
 - **Determination**: More resolved than ever to reclaim family legacy
-- **Caution**: Wary of Black Spider agents and future threats
+- **Caution**: Wary of Black Snake agents and future threats
 - **Information**: Eager to share what he learned during captivity
 
 ## Quest Information
@@ -83,7 +83,7 @@ Gundren Rockseeker (Dwarf Noble/Merchant):
 - **Dwarven Communities**: Cultural and religious ties
 
 ## Knowledge & Information
-**Black Spider Operations**: Details about captivity and interrogation
+**Black Snake Operations**: Details about captivity and interrogation
 **Regional Threats**: Information gathered during transport and imprisonment
 **Mining Prospects**: Assessment of Wave Echo Cave's potential
 **Family History**: Stories of original Phandelver's Pact and its dissolution
@@ -126,7 +126,7 @@ Gundren Rockseeker (Dwarf Noble/Merchant):
 
 ## Relationship Dynamics
 **Sildar Hallwinter**: Professional respect and cooperation
-**Black Spider Network**: Sworn enemy after captivity ordeal
+**Black Snake Network**: Sworn enemy after captivity ordeal
 **Party Members**: Deep gratitude and potential lifelong friendship
 **Family**: Complicated relationships with surviving brothers
 

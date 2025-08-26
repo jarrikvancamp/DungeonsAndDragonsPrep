@@ -68,7 +68,7 @@ King Grol (Hobgoblin Warlord):
 
 ## Negotiation Potential
 - **Prisoner Exchange**: May trade captives for valuable consideration
-- **Information**: Knows about Black Spider operations and regional threats
+- **Information**: Knows about Black Snake operations and regional threats
 - **Respect Strength**: More likely to deal with proven warriors
 - **Honor Code**: Hobgoblin military traditions may require fair treatment
 

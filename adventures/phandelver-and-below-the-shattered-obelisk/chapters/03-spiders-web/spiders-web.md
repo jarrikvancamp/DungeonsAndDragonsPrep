@@ -1,4 +1,4 @@
-# Chapter 3: The Spider's Web
+# Chapter 3: The Snake's Web
 
 ---
 type: adventure-chapter
@@ -7,12 +7,12 @@ chapter: 3
 party-level: 3
 party-size: 4
 playtime: 4-6 hours
-tags: [wilderness, exploration, cragmaw, spider, investigation]
+tags: [wilderness, exploration, cragmaw, snake, investigation]
 ---
 
 ## Chapter Overview
 
-Once the characters have dealt with Iarno "Glasstaff" Albrek, they must venture into the wilderness surrounding Phandalin to find Wave Echo Cave and confront the Spider. This chapter takes place in the Triboar Trail region, featuring multiple quest locations that can be explored in any order.
+Once the characters have dealt with Iarno "Glasstaff" Albrek, they must venture into the wilderness surrounding Phandalin to find Wave Echo Cave and confront the Snake. This chapter takes place in the Triboar Trail region, featuring multiple quest locations that can be explored in any order.
 
 **Level Advancement:** Characters gain a level when they confront King Grol and learn the location of Wave Echo Cave.
 
@@ -57,7 +57,7 @@ Check for encounters once during day and once at night on d20 roll of 17-20.
 
 **Cragmaw Goblin Band:** 2d4 goblins + goblin boss. Know Cragmaw Castle location. Boss has 1d10 cp and 1d10 sp.
 
-**Hobgoblin Squad:** 1d4 + 3 hobgoblins seeking adventurers for Spider's bounty. One carries sketch worth "25 gold pieces" with spider symbol.
+**Hobgoblin Squad:** 1d4 + 3 hobgoblins seeking adventurers for Snake's bounty. One carries sketch worth "25 gold pieces" with snake symbol.
 
 **Bugbear Scouts:** Two bugbears from Wyvern Tor band, ambushing travelers.
 
@@ -142,7 +142,7 @@ Check for encounters once during day and once at night on d20 roll of 17-20.
 **U4: Druid's Watch Post**
 - **NPC:** Reidoth (elderly human druid with long white hair)
 - **Attitude:** Reasonably hospitable, laconic
-- **Knowledge:** Warns of ash zombies, mutated plants, spiders, dragon, cultists
+- **Knowledge:** Warns of ash zombies, mutated plants, giant centipedes, dragon, cultists
 - **Emerald Enclave:** Offers membership to nature-respecting characters
 - **Cragmaw Castle Directions:** Requires chasing off Venomfang or good roleplay
 
@@ -151,7 +151,7 @@ Check for encounters once during day and once at night on d20 roll of 17-20.
 - **Tactics:** 2 twig blights per round for 3 rounds, then needle blights
 
 **U6: Ruined Store**
-- **Enemies:** 2 giant spiders
+- **Enemies:** 2 giant centipedes
 - **Features:** Webs across lane (difficult terrain, DC 8 Athletics or restrained)
 - **Treasure:** Cocooned elf corpse with +1 leather armor, shortsword, potion of healing, 23 gp, 35 sp
 
@@ -293,7 +293,7 @@ When characters rescue Gundren or obtain the location of Wave Echo Cave through 
 - **Hamun Kost:** Red Wizard, wants help with raiders and banshee question  
 - **Reidoth:** Druid, knows area dangers, Emerald Enclave recruiter
 - **King Grol:** Bugbear leader, holds Gundren hostage
-- **Vyerith:** Doppelganger spy for the Spider
+- **Vyerith:** Doppelganger spy for the Snake
 
 ### Important Treasure
 - Ring of protection (Old Owl Well)

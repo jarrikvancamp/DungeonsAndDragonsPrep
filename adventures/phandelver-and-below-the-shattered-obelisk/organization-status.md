@@ -13,7 +13,7 @@
 
 Based on the dump file structure, the following chapters need to be extracted and organized:
 
-### Chapter 3: The Spider's Web (Lines ~1225-1804)
+### Chapter 3: The Snake's Web (Lines ~1225-1804)
 - **Content**: Wilderness exploration around Phandalin
 - **Locations**: Conyberry/Agatha's Lair, Old Owl Well, Thundertree, Wyvern Tor, Cragmaw Castle
 - **Level**: 3rd level characters
@@ -21,9 +21,9 @@ Based on the dump file structure, the following chapters need to be extracted an
 
 ### Chapter 4: Wave Echo Cave (Lines ~1804-2179) 
 - **Content**: The lost mine dungeon
-- **Enemies**: Undead, monsters, Nezznar the Spider
+- **Enemies**: Undead, monsters, Nezznar the Snake
 - **Level**: 4th level characters  
-- **Goal**: Clear the mine, defeat the Spider
+- **Goal**: Clear the mine, defeat the Snake
 
 ### Chapter 5: Paths of Peril (Lines ~2179-2974)
 - **Content**: Return to Phandalin, psionic goblins, Zorzula's Rest
@@ -95,7 +95,7 @@ Create files in `/magic-items/` folder:
 ├── chapters/
 │   ├── chapter-01-dangerous-journey.md ✅
 │   ├── chapter-02-trouble-in-phandalin.md ✅ 
-│   ├── chapter-03-spiders-web.md
+│   ├── chapter-03-snakes-web.md
 │   ├── chapter-04-wave-echo-cave.md
 │   ├── chapter-05-paths-of-peril.md
 │   ├── chapter-06-shattered-obelisk.md

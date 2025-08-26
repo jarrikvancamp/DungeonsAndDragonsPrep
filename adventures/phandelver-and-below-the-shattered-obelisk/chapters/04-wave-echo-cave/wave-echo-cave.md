@@ -7,14 +7,14 @@ chapter: 4
 party-level: 4
 party-size: 4
 playtime: 4-6 hours
-tags: [dungeon, lost-mine, spider, undead, forge-of-spells]
+tags: [dungeon, lost-mine, snake, undead, forge-of-spells]
 ---
 
 ## Chapter Overview
 
-Wave Echo Cave is the lost mine of the Phandelver Pact, located fifteen miles east of Phandalin in the Sword Mountains. The Spider (Nezznar) and his followers have captured the Rockseeker brothers and begun exploring the dangerous mine in search of the Forge of Spells.
+Wave Echo Cave is the lost mine of the Phandelver Pact, located fifteen miles east of Phandalin in the Sword Mountains. The Snake (Nezznar) and his followers have captured the Rockseeker brothers and begun exploring the dangerous mine in search of the Forge of Spells.
 
-**Level Advancement:** Characters gain a level when they defeat Nezznar the Spider.
+**Level Advancement:** Characters gain a level when they defeat Nezznar the Snake.
 
 ## DM Read-Aloud
 
@@ -22,7 +22,7 @@ Wave Echo Cave is the lost mine of the Phandelver Pact, located fifteen miles ea
 
 ## Story Background
 
-The Spider followed the Rockseekers to their discovery, captured two brothers (Tharden and Nundro), and arranged Gundren's ambush. Now Nezznar explores the mine seeking the Forge of Spells where human mages once enchanted dwarven weapons and gnome gadgets. Dangerous monsters and undead guardians hinder his progress.
+The Snake followed the Rockseekers to their discovery, captured two brothers (Tharden and Nundro), and arranged Gundren's ambush. Now Nezznar explores the mine seeking the Forge of Spells where human mages once enchanted dwarven weapons and gnome gadgets. Dangerous monsters and undead guardians hinder his progress.
 
 ## Running This Chapter
 
@@ -62,11 +62,11 @@ Check on d20 roll of 17-20, or when players seem restless.
 **Features:**
 - Large natural cavern with rock pillar
 - Campsite behind pillar: bedrolls, supplies (flour, salt, meat, lanterns, oil, tools)
-- **Tharden's Body:** Dead dwarf (Gundren's brother), killed by Spider
+- **Tharden's Body:** Dead dwarf (Gundren's brother), killed by Snake
 - **Open Pit:** 10 feet wide, 20 feet deep with hemp rope
 - **Goblin Body:** Strange psionic goblin with elongated skull (foreshadowing)
 
-**Treasure:** Tharden wears cloak of protection (overlooked by Spider).
+**Treasure:** Tharden wears cloak of protection (overlooked by Snake).
 
 **Tunnels:** Northwest to W2, east to W3.
 
@@ -248,7 +248,7 @@ Check on d20 roll of 17-20, or when players seem restless.
 - **Eyes:** Large emeralds (5,000 gp each, but see trap below)
 - Table on west side, firepit, bedrolls
 
-**Enemies:** Nezznar the Spider, 2 bugbears (+ doppelganger from W18 if escaped).
+**Enemies:** Nezznar the Snake, 2 bugbears (+ doppelganger from W18 if escaped).
 
 **Tactics:** If expecting trouble: bugbears hide behind pillars, Nezznar casts invisibility.
 
@@ -256,11 +256,11 @@ Check on d20 roll of 17-20, or when players seem restless.
 
 **Nezznar's Personality:**
 - Curious about characters despite intent to kill
-- Admits to being the Spider
+- Admits to being the Snake
 - Uses Cragmaws and Redbrands to keep cave secret
 - Promises cooperation but betrays when able
 
-**Treasure:** Nezznar carries potion of healing, spider staff, iron key (anvil head - unlocks W20). Black sack on table: 190 ep, 130 gp, 15 pp, 9 small gems (10 gp each), electrum ale mug (80 gp).
+**Treasure:** Nezznar carries potion of healing, snake staff, iron key (anvil head - unlocks W20). Black sack on table: 190 ep, 130 gp, 15 pp, 9 small gems (10 gp each), electrum ale mug (80 gp).
 
 ### W20: Priests' Quarters
 **Features:**
@@ -274,11 +274,11 @@ Check on d20 roll of 17-20, or when players seem restless.
 
 ## Major NPCs
 
-### Nezznar the Spider
+### Nezznar the Snake
 - **Background:** Drow seeking Forge of Spells, orchestrated Gundren's capture
 - **Motivation:** Power through ancient magic, establishing dominion over region
 - **Tactics:** Uses charm and deception before resorting to violence
-- **Equipment:** Spider staff, potions, magical components
+- **Equipment:** Snake staff, potions, magical components
 
 ### Mormesk the Wraith
 - **Background:** Last wizard to die defending the mine
@@ -292,7 +292,7 @@ Check on d20 roll of 17-20, or when players seem restless.
 
 ## Chapter Conclusion
 
-With Nezznar defeated and the Spider's plots ended, the Rockseeker brothers take over mine administration. The party receives a 10% share of profits (suggest 255 gp at start of each subsequent chapter). 
+With Nezznar defeated and the Snake's plots ended, the Rockseeker brothers take over mine administration. The party receives a 10% share of profits (suggest 255 gp at start of each subsequent chapter). 
 
 **If Continuing:** Characters may notice disturbing evidence of strange goblins threatening the area, setting up Chapter 5's psionic goblin plot.
 
@@ -311,7 +311,7 @@ With Nezznar defeated and the Spider's plots ended, the Rockseeker brothers take
 - Lightbringer +1 mace (W15)
 - Dragon breastplate +1 (W15)
 - Gauntlets of ogre power (W18)
-- Spider staff (W19)
+- Snake staff (W19)
 
 ### Environmental Hazards
 - Low ceilings in W2 (combat disadvantage)

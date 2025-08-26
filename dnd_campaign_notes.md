@@ -117,7 +117,7 @@
   - Scroll of Charm Person
   - Scroll of Fireball → Lyssandra
   - 30 beaver pelts from stolen caravan
-- **Discovery**: Letter with spider sign, platinum signet ring
+- **Discovery**: Letter with snake sign, platinum signet ring
 
 ### Session 8
 
@@ -128,7 +128,7 @@
 - **Poisoned food discovery**: 50 gold found
 - **Interrogation ended**: Guard jumped in water and drowned
 - **Family rescued**: Returned carpenter's family home
-- **Zhentarim connection**: Halia gave party letter with spider emblem
+- **Zhentarim connection**: Halia gave party letter with snake emblem
 - **Banshee info**: Sister Garele saw banshee west of Conyberry
 - **Owlbear boss fight** en route to Conyberry
 - **Conyberry arrival**: Met elf "Verron" with Zhentarim tattoo
@@ -187,7 +187,7 @@
 - **Emerald Enclave member**: Reidoth's affiliation revealed
 - **Brown Horse Inn exploration**: Former brewery, zombie infestation
 - **Zombie immunity**: Fire and poison ineffective, water seemed to work
-- **Spider encounter**: 2 large spiders, Lyssandra found 23GP + light crossbow
+- **Centipede encounter**: 2 large centipedes, Lyssandra found 23GP + light crossbow
 - **Cultist encounter**: Dragon-masked cultists, difficult fight, boss wounded and fled
 
 ### Session 13: Tower Approach
@@ -252,7 +252,7 @@
 - **Clever bypass**: Jumped in empty creek to avoid skeleton's sight
 - **Cleaned chamber**: Recent cleanup, skeletons moved aside, connects to skeleton head area
 
-### Session 17: The Spider - Final Battle
+### Session 17: The Snake - Final Battle
 
 - **Wraith ambush**: Angry about orc raids, hostile to Zalaris (half-orc)
 - **Darrin's armor lost**: Taken by wraith for his rudeness
@@ -260,8 +260,8 @@
 - **Spectator fight**: Mini-beholder guarding staff
 - **Staff retrieved**: Darrin recovered but armorless and bound/gagged
 - **Brother rescue**: Found one of Gundren's brothers tied up
-- **Final boss**: "The Spider" - summoned snakes (ironic nickname)
-- **Tragic victory**: The Spider defeated but **Cappy killed in battle**
+- **Final boss**: "The Snake" - summoned snakes (fitting nickname)
+- **Tragic victory**: The Snake defeated but **Cappy killed in battle**
 - **Campaign end**:
   - **Darrin**: Stubbornly stayed behind to search for armor
   - **Rest of party**: Returned to Phandalin
@@ -280,7 +280,7 @@
 - **Halia Thornton**: Ambitious Miner's Exchange guild master (distrusted by Lyssandra)
 - **Harbin Wester**: Pompous Phandalin townmaster
 - **Larno/Glasstaff**: Red Brands leader, Sildar's corrupted friend
-- **"The Spider"**: Final boss in Wave Echo Cave
+- **"The Snake"**: Final boss in Wave Echo Cave
 - **Necromancer**: Raised Darrin's father, traded information
 - **Banshee**: Undead elf, sister of elvenkind, widow seeking justice
 
@@ -319,7 +319,7 @@
 
 - **Bowgentle's Spellbook**: Located with mage Tsarnot in Ireighbough
 - **Phandelver Pact Book**: Dwarfish tome about Urmon's adventures
-- **Spider Letters**: Zhentarim correspondence
+- **Snake Letters**: Zhentarim correspondence
 - **Platinum Signet Ring**: From Tresendar lord's tomb
 
 ---
@@ -330,7 +330,7 @@
 - **Character Deaths**: 1 (Cappy/Anouk)
 - **Missing Characters**: 1 (Darrin/Egon)
 - **Level Progression**: Started Level 1 → Ended Level 5
-- **Major Bosses Defeated**: Glasstaff, Dragon, The Spider, Orc Boss, Necromancer (traded with)
+- **Major Bosses Defeated**: Glasstaff, Dragon, The Snake, Orc Boss, Necromancer (traded with)
 - **Factions Encountered**: Red Brands, Zhentarim, Emerald Enclave
 
 ---

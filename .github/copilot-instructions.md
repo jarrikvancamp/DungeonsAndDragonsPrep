@@ -18,6 +18,7 @@ This file contains compact, actionable instructions you can paste into GitHub Co
 * **Current Campaign:** Phandelver and Below: The Shattered Obelisk
 * **Player numbers & levels:** Always request party size and average level if not provided. If not available, assume **4 players, level 5**.
 * **Time & pacing:** Provide estimated playtime for an encounter or scene (e.g., 15–30 minutes for a small combat, 45–90 for a complex dungeon room or boss).
+* **Arachnophobia-Friendly Content:** When generating monsters, encounters, or NPCs, avoid spider creatures and spider-themed content. Use alternative creatures like snakes, centipedes, or other arthropods. Replace spider webs with alternative traps (nets, vines, magical bindings).
 
 ---
 

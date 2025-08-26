@@ -41,13 +41,13 @@ The mind flayer fanatics have discovered pieces of a shattered obelisk of great 
 The adventurers are on the road to Phandalin when they stumble into a goblin ambush. They discover that the goblins have captured Gundren Rockseeker and his escort, Sildar Hallwinter. The characters must follow their trail to the goblins' hideout to rescue Sildar and learn about Cragmaw Castle.
 
 ### Chapter 2: Trouble in Phandalin
-After arriving in Phandalin, the characters find it terrorized by the Redbrands, led by Glasstaff. The characters storm the Redbrands' lair and discover that Glasstaff takes orders from someone called the Spider.
+After arriving in Phandalin, the characters find it terrorized by the Redbrands, led by Glasstaff. The characters storm the Redbrands' lair and discover that Glasstaff takes orders from someone called the Snake.
 
-### Chapter 3: The Spider's Web
-The heroes undertake several explorations around Phandalin searching for more information about the Spider and the lost mine. Multiple leads point to Cragmaw Castle and the drow mastermind Nezznar.
+### Chapter 3: The Snake's Web
+The heroes undertake several explorations around Phandalin searching for more information about the Snake and the lost mine. Multiple leads point to Cragmaw Castle and the drow mastermind Nezznar.
 
 ### Chapter 4: Wave Echo Cave
-Following the map to the lost mine brings the characters to Wave Echo Cave, overrun with undead and monsters. The Spider and his followers are searching for the legendary Forge of Spells.
+Following the map to the lost mine brings the characters to Wave Echo Cave, overrun with undead and monsters. The Snake and his followers are searching for the legendary Forge of Spells.
 
 ### Chapter 5: Paths of Peril
 When heroes return to Phandalin, they find more goblins wreaking havoc. The Sawplee goblins, led by Ruxithid the Chosen, have kidnapped townsfolk. Characters must track them to Zorzula's Rest and discover the mind flayer fanatics' plot.
@@ -83,7 +83,7 @@ As the adventure progresses, Far Realm energy infuses Phandalin, causing gradual
 - **Gundren Rockseeker**: Dwarf patron who hires the party
 - **Sildar Hallwinter**: Lords' Alliance agent and escort
 - **Glasstaff/Iarno Albrek**: Redbrand leader and fallen Lords' Alliance member
-- **Nezznar the Spider**: Drow mastermind seeking Wave Echo Cave
+- **Nezznar the Snake**: Drow mastermind seeking Wave Echo Cave
 - **Ruxithid the Chosen**: Psionic goblin leader working for mind flayers
 - **Mind Flayer Fanatics**: Three Far Realm–influenced fanatics plotting Phandalin's transformation
 - **Ilvaash**: Far Realm godlet and ultimate antagonist

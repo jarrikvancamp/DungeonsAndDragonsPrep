@@ -95,7 +95,7 @@ Transform into beasts with CR up to 1 (at level 5):
 
 - **Brown Bear** (Recommended tank form): AC 11, 34 HP, +5 to hit, 1d8+4 damage, multiattack
 - **Dire Wolf**: AC 14, 37 HP, +5 to hit, 2d6+3 damage, pack tactics, knock prone
-- **Giant Spider**: AC 14, 26 HP, +5 to hit, 1d8+3 + poison, web attack
+- **Giant Centipede**: AC 13, 22 HP, +3 to hit, 1d4+1 + poison, climb speed
 
 ### Combat Wild Shape
 
@@ -115,7 +115,7 @@ Transform into beasts with CR up to 1 (at level 5):
 
 - Use utility spells sparingly to preserve slots for healing and combat
 - _Guidance_ cantrip for important skill checks
-- Wild Shape for scouting (spider for climbing, wolf for tracking)
+- Wild Shape for scouting (rat for squeezing through spaces, wolf for tracking)
 
 ## Key Strengths
 

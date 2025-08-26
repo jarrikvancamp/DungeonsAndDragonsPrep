@@ -2,10 +2,10 @@
 type: npc
 campaign: phandelver-and-below-the-shattered-obelisk
 chapter: 4
-tags: [nezznar, black-spider, drow, final-boss]
+tags: [nezznar, black-snake, drow, final-boss]
 ---
 
-# Nezznar "The Black Spider" (Drow Mage)
+# Nezznar "The Black Snake" (Drow Mage)
 
 ## Role
 Main antagonist and final boss of the Lost Mine of Phandelver arc
@@ -30,7 +30,7 @@ Believes the Forge of Spells will grant him the power to carve out his own domai
 
 ## Stats
 ```yaml
-Nezznar "The Black Spider" (Drow Mage):
+Nezznar "The Black Snake" (Drow Mage):
   AC: 12 (15 with Mage Armor)
   HP: 45 (range 35-55)
   Speed: 30 ft

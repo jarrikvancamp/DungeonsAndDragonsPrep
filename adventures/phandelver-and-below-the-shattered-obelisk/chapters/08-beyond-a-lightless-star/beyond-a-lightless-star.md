@@ -94,9 +94,9 @@ If characters return to Phandalin before pursuing the fanatics, they find the to
 ## Major Briny Maze Encounters
 
 ### B3: Webbed Chamber
-- **Enemies:** 2 phase spiders (can't use Ethereal Jaunt), 2 psionic ashenwights
+- **Enemies:** 2 phase stalkers (can't use Ethereal Jaunt), 2 psionic ashenwights
 - **Environment:** Diaphanous webs (lightly obscure, heavily obscure near back wall)
-- **Tactics:** Phase spiders alert ashenwights, coordinate attacks
+- **Tactics:** Phase stalkers alert ashenwights, coordinate attacks
 
 ### B4: Wall of Hubris
 - **Enemies:** 5 flameskulls (emerge from wizard corpses)
