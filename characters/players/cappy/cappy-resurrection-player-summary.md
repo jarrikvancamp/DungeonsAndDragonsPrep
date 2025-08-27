@@ -13,14 +13,14 @@ You died protecting your companions in Wave Echo Cave, but death was not the end
 
 ## New Ability: Necrotic Convergence
 
-You have gained a powerful ability that enhances your druidic magic. When activated, you can choose one of the following benefits for 1 minute:
+You have gained a powerful ability that enhances your druidic magic. When activated, you can choose one of the following benefits:
 
-- **Unlimited Wild Shape:** Use Wild Shape as many times as you want during the duration (doesn't count against your daily uses)
+- **Unlimited Wild Shape:** Use Wild Shape as many times as you want (doesn't count against your daily uses)
 - **Perfect Healing:** Your healing spells automatically restore the maximum possible hit points
 
 **Uses:** 3 times per long rest (based on your proficiency bonus)
-**Activation:** Bonus action
-**Duration:** 1 minute
+**Activation:** No action or Bonus action. Activate when you feel like it.
+**Duration:** /
 
 ## What You Notice
 
