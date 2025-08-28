@@ -1,0 +1,79 @@
+🌿 Druid Shapeshift Templates (Level 5)
+
+✅ Rules:
+
+You can shift into Predator, Defender, Scout, or Aquatic Form.
+
+You keep your mental stats, but replace AC/HP/attacks with the form’s stats.
+
+HP resets each time you shift (like normal Wild Shape).
+
+All attack rolls = Wisdom modifier + proficiency bonus.
+
+DCs (for grapples, trips, etc.) = 8 + PB + Wis.
+
+🐺 Predator Form (damage & mobility)
+
+Think wolf, panther, tiger
+
+AC: 12 + PB (so 15 at level 5)
+
+HP: 30 (6 × druid level)
+
+Speed: 40 ft, climb 30 ft
+
+Attack: Bite or Claw → +Wis+PB to hit, 2d8 + Wis damage
+
+Special: Advantage on the first attack after moving 20 ft straight toward a creature.
+
+🐻 Defender Form (tank)
+
+Think bear, turtle, rhino
+
+AC: 13 + PB (16 at level 5)
+
+HP: 40 (8 × druid level)
+
+Speed: 30 ft
+
+Attack: Slam or Maul → +Wis+PB to hit, 1d10 + Wis damage
+
+Special: When hit by an attack, you can use your Reaction to impose disadvantage (representing thick hide, shell, or size).
+
+🦅 Scout Form (speed & utility)
+
+Think hawk, spider, fox
+
+AC: 12 + PB (15 at level 5)
+
+HP: 25 (5 × druid level)
+
+Speed: 40 ft, climb 30 ft
+
+Attack: Talons/Bite → +Wis+PB to hit, 1d8 + Wis damage
+
+Special: Advantage on Perception checks that rely on sight/smell/hearing, and you can Dash as a bonus action.
+
+🐟 Aquatic Form (unlocked at 4th)
+
+Think crocodile, giant frog, shark
+
+AC: 12 + PB (15 at level 5)
+
+HP: 30 (6 × druid level)
+
+Speed: swim 40 ft, land 20 ft
+
+Attack: Bite → +Wis+PB to hit, 2d6 + Wis damage
+
+Special: You can breathe underwater and grapple a creature (escape DC = your Spell Save DC).
+
+📜 Quick Reference (Level 5 Druid)
+
+ACs: 15 (Predator/Scout/Aquatic) | 16 (Defender)
+
+HPs: 25 (Scout), 30 (Predator/Aquatic), 40 (Defender)
+
+Damage Dice: Predator 2d8, Defender 1d10, Scout 1d8, Aquatic 2d6
+
+Attack Bonus: Wis + PB (so likely +6 if Wis 16)

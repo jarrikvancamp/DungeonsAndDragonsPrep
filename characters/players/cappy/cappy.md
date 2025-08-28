@@ -59,7 +59,7 @@
 
 - **Spell Attack Bonus:** +6
 - **Spell Save DC:** 14
-- **Spells Known:** 2 cantrips + 4 1st + 3 2nd + 2 3rd level spells
+- **Spells Known:** 3 cantrips + 4 1st + 3 2nd + 2 3rd level spells
 - **Spell Slots:** 4 1st, 3 2nd, 2 3rd level
 
 ### Streamlined Spell List (Tank-Focused)
@@ -68,6 +68,7 @@
 
 - _Guidance_ - Help with ability checks
 - _Druidcraft_ - Utility and flavor
+- _Minor Wild Shape_ (Custom) - Transform into Tiny harmless creatures (mouse, cat, small dog, songbird, etc.) for 1 hour. No combat stats, purely for utility and stealth. Can be cast at will.
 
 **1st Level:**
 
@@ -88,15 +89,6 @@
 - _Dispel Magic_ - Remove harmful magic
 
 ## Circle of the Moon Features
-
-### Wild Shape (2/Short Rest)
-
-Transform into beasts with CR up to 1 (at level 5):
-
-- **Brown Bear** (Recommended tank form): AC 11, 34 HP, +5 to hit, 1d8+4 damage, multiattack
-- **Dire Wolf**: AC 14, 37 HP, +5 to hit, 2d6+3 damage, pack tactics, knock prone
-- **Giant Centipede**: AC 13, 22 HP, +3 to hit, 1d4+1 + poison, climb speed
-
 ### Combat Wild Shape
 
 - Can Wild Shape as a bonus action
@@ -115,7 +107,8 @@ Transform into beasts with CR up to 1 (at level 5):
 
 - Use utility spells sparingly to preserve slots for healing and combat
 - _Guidance_ cantrip for important skill checks
-- Wild Shape for scouting (rat for squeezing through spaces, wolf for tracking)
+- _Minor Wild Shape_ for infiltration (mouse to squeeze under doors, cat to blend in urban areas, songbird for aerial scouting)
+- Wild Shape for scouting (rat for squeezing through spaces, wolf for tracking) when you need combat-capable forms
 
 ## Key Strengths
 
