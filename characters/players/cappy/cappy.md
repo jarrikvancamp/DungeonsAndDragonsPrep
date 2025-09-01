@@ -1,130 +1,104 @@
 # Cappy - High Elf Moon Druid
 
-## Character Overview
+## Quick Reference
 
-**Race:** High Elf  
-**Class:** Druid (Circle of the Moon)  
-**Level:** 5 (recommended starting level for good Wild Shape options)  
-**Background:** Hermit  
-**Alignment:** Neutral Good
+**Level 5 | AC 16 | HP 38 | Speed 30ft | Prof +3**
 
-## Ability Scores (Point Buy + Racial)
+| STR    | DEX    | CON    | INT    | WIS    | CHA    |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| 13(+1) | 15(+2) | 15(+2) | 14(+2) | 16(+3) | 10(+0) |
 
-- **Strength:** 13
-- **Dexterity:** 14 (+1 racial) = 15 (+2)
-- **Constitution:** 15 (+1)
-- **Intelligence:** 12 (+2 racial) = 14 (+2)
-- **Wisdom:** 15 (+1 racial) = 16 (+3) _Primary stat_
-- **Charisma:** 10
-
-## Racial Features (High Elf)
-
-- **Darkvision:** 60 feet
-- **Keen Senses:** Proficiency with Perception
-- **Fey Ancestry:** Advantage on saves against charm, immune to magical sleep
-- **Trance:** 4-hour long rest instead of 8-hour sleep
-- **Cantrip:** _Thorn Whip_ (Druid cantrip via racial feature)
-- **Weapon Training:** Longswords, shortbows, longbows, shortswords
-- **Extra Language:** Sylvan
-
-## Proficiencies
-
-- **Armor:** Light armor, medium armor, shields (non-metal)
-- **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-- **Tools:** Herbalism kit (background)
-- **Saving Throws:** Intelligence, Wisdom
-- **Skills:** Medicine (background), Religion (background), Animal Handling, Perception, Survival
-
-## Equipment
-
-- **Armor:** Studded Leather (AC 12 + Dex modifier = 14)
-- **Shield:** +2 AC (Total AC: 16)
-- **Weapons:** Scimitar, Javelin (6), Sling with 20 bullets
-- **Gear:** Leather armor, explorer's pack, wooden shield, scimitar, herbalism kit, spell component pouch
-
-## Combat Stats (Level 5)
-
-- **Armor Class:** 16 (Studded Leather + Shield + Dex)
-- **Hit Points:** 38 (5d8 + 5 Con modifier)
-- **Speed:** 30 feet
-- **Proficiency Bonus:** +3
-
-### Attacks
-
-- **Scimitar:** +5 to hit, 1d6+2 slashing
-- **Javelin:** +5 to hit, 1d6+2 piercing (range 30/120)
-- **Sling:** +5 to hit, 1d4+2 bludgeoning (range 30/120)
-
-## Spellcasting
-
-- **Spell Attack Bonus:** +6
-- **Spell Save DC:** 14
-- **Spells Known:** 3 cantrips + 4 1st + 3 2nd + 2 3rd level spells
-- **Spell Slots:** 4 1st, 3 2nd, 2 3rd level
-
-### Streamlined Spell List (Tank-Focused)
-
-**Cantrips:**
-
-- _Guidance_ - Help with ability checks
-- _Thorn Whip_ - Pull enemies closer and deal damage
-- _Minor Wild Shape_ (Custom) - Transform into Tiny harmless creatures (mouse, cat, small dog, songbird, etc.) for 1 hour. No combat stats, purely for utility and stealth. Can be cast at will.
-
-**1st Level:**
-
-- _Cure Wounds_ - Essential healing
-- _Goodberry_ - Out-of-combat healing/sustenance
-- _Faerie Fire_ - Debuff enemies, help party hit
-- _Entangle_ - Battlefield control
-
-**2nd Level:**
-
-- _Barkskin_ - AC boost when not Wild Shaped
-- _Heat Metal_ - Damage and disadvantage on attacks
-- _Moonbeam_ - Area damage and control
-
-**3rd Level:**
-
-- _Conjure Animals_ - Summon help (8 wolves or 4 brown bears)
-- _Dispel Magic_ - Remove harmful magic
-
-## Circle of the Moon Features
-
-### Combat Wild Shape
-
-- Can Wild Shape as a bonus action
-- Can cast spells while in Wild Shape (some restrictions apply)
-
-## Tactical Play Style
-
-### In Combat
-
-1. **Round 1:** Wild Shape into Brown Bear as bonus action, move and attack
-2. **Tank Strategy:** Use bear form to absorb damage, position to protect squishier allies
-3. **Spell Support:** When not Wild Shaped, use _Faerie Fire_ or _Heat Metal_ to debuff enemies
-4. **Healing:** Use _Cure Wounds_ or _Goodberry_ between fights
-
-### Out of Combat
-
-- Use utility spells sparingly to preserve slots for healing and combat
-- _Guidance_ cantrip for important skill checks
-- _Thorn Whip_ for pulling objects or enemies into position
-- _Minor Wild Shape_ for infiltration (mouse to squeeze under doors, cat to blend in urban areas, songbird for aerial scouting)
-- Wild Shape for scouting (rat for squeezing through spaces, wolf for tracking) when you need combat-capable forms
-
-## Key Strengths
-
-- **High survivability** through Wild Shape HP buffer
-- **Versatile** - can tank, heal, or provide utility as needed
-- **Simple spell selection** - no decision paralysis
-- **Self-sufficient** - good at surviving alone or with party
-
-## Level Progression Tips
-
-- **Level 6:** Improved Wild Shape forms (CR 2 beasts like Giant Constrictor Snake)
-- **Level 8:** Add _Polymorph_ for ultimate utility spell
-- **ASI Priority:** Wisdom to 18, then Constitution or Resilient (Constitution)
+**Saves:** INT +5, WIS +6  
+**Spell Attack:** +6 | **Spell Save DC:** 14
 
 ---
 
-_This build focuses on being an effective tank with simple, powerful spell choices. The High Elf racial features provide nice utility while the Moon Druid gives you the tankiness and versatility you're looking for._
+## Combat Actions
+
+### Attacks
+
+```yaml
+Scimitar: +5 to hit, 1d6+2 slashing
+Javelin: +5 to hit, 1d6+2 piercing (30/120ft)
+Sling: +5 to hit, 1d4+2 bludgeoning (30/120ft)
+Thorn Whip: +6 to hit, 1d6 piercing, pull 10ft (30ft range)
+```
+
+### Wild Shape (2/short rest, bonus action)
+
+```yaml
+Brown Bear:   AC 11, HP 34, Speed 40ft
+              Bite: +5, 1d8+3 piercing
+              Claw: +5, 1d6+3 slashing
+
+Wolf:         AC 13, HP 11, Speed 40ft
+              Bite: +4, 2d4+2 piercing, prone on hit
+              Pack Tactics, Keen Hearing/Smell
+```
+
+---
+
+## Skills & Abilities
+
+**Proficient Skills:**
+
+- Animal Handling +6
+- Medicine +6 (background)
+- Perception +6 (racial bonus)
+- Religion +5 (background)
+- Survival +6
+
+**Key Features:**
+
+- **Darkvision** 60ft
+- **Fey Ancestry** (advantage vs charm, immune to magical sleep)
+- **Keen Senses** (Perception proficiency)
+- **Combat Wild Shape** (bonus action, cast spells while shaped)
+
+---
+
+## Spells (Slots: 4/3/2)
+
+### Cantrips (at will)
+
+- **Guidance:** +1d4 to ability check
+- **Thorn Whip:** 1d6 damage, pull 10ft
+- **Minor Wild Shape:** Tiny harmless animals (utility)
+
+### Combat Spells
+
+```yaml
+Cure Wounds (1st): 1d8+3 healing, touch
+Faerie Fire (1st): 20ft cube, DEX save or outlined + advantage to hit
+Entangle (1st): 20ft square, STR save or restrained
+Heat Metal (2nd): 2d8 fire + disadvantage on attacks
+Moonbeam (2nd): 5ft cylinder, 2d10 radiant, move 60ft/turn
+Conjure Animals (3rd): 8 wolves or 4 brown bears
+```
+
+### Utility Spells
+
+- **Goodberry (1st):** 10 berries, 1 HP each
+- **Barkskin (2nd):** AC = 16 minimum
+- **Dispel Magic (3rd):** Remove spells/effects
+
+---
+
+## Quick Combat Tactics
+
+**Round 1:** Wild Shape (bonus) → Move → Attack  
+**Tanking:** Use Brown Bear form, position to protect allies  
+**Control:** Entangle/Faerie Fire before Wild Shaping  
+**Emergency:** Drop Wild Shape, cast Cure Wounds
+
+---
+
+## Character Background
+
+**Race:** High Elf | **Class:** Druid (Circle of the Moon) | **Background:** Hermit | **Alignment:** Neutral Good
+
+**Equipment:** Studded Leather Armor, Shield, Scimitar, Javelins (6), Sling + 20 bullets, Herbalism Kit, Explorer's Pack
+
+---
+
+_This condensed sheet focuses on combat-ready information and frequently used abilities for quick table reference._
