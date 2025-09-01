@@ -23,7 +23,7 @@
 - **Keen Senses:** Proficiency with Perception
 - **Fey Ancestry:** Advantage on saves against charm, immune to magical sleep
 - **Trance:** 4-hour long rest instead of 8-hour sleep
-- **Cantrip:** _Guidance_ (Druid cantrip via racial feature)
+- **Cantrip:** _Thorn Whip_ (Druid cantrip via racial feature)
 - **Weapon Training:** Longswords, shortbows, longbows, shortswords
 - **Extra Language:** Sylvan
 
@@ -67,7 +67,7 @@
 **Cantrips:**
 
 - _Guidance_ - Help with ability checks
-- _Druidcraft_ - Utility and flavor
+- _Thorn Whip_ - Pull enemies closer and deal damage
 - _Minor Wild Shape_ (Custom) - Transform into Tiny harmless creatures (mouse, cat, small dog, songbird, etc.) for 1 hour. No combat stats, purely for utility and stealth. Can be cast at will.
 
 **1st Level:**
@@ -89,6 +89,7 @@
 - _Dispel Magic_ - Remove harmful magic
 
 ## Circle of the Moon Features
+
 ### Combat Wild Shape
 
 - Can Wild Shape as a bonus action
@@ -107,6 +108,7 @@
 
 - Use utility spells sparingly to preserve slots for healing and combat
 - _Guidance_ cantrip for important skill checks
+- _Thorn Whip_ for pulling objects or enemies into position
 - _Minor Wild Shape_ for infiltration (mouse to squeeze under doors, cat to blend in urban areas, songbird for aerial scouting)
 - Wild Shape for scouting (rat for squeezing through spaces, wolf for tracking) when you need combat-capable forms
 
