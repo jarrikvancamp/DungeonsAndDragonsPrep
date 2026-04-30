@@ -47,12 +47,13 @@ tags: [campaign-log, phandelver, shattered-obelisk, neverwinter]
 
 ## Party Members
 
-- **Dárin** (Dwarf) — Wears orcish armor, Scottish accent, has warhammer
-- **Zelaerys / Zalaris** (Half-Orc) — Melee fighter, has magical greataxe (+1)
-- **Cappy / Anouk** (Druid) — Can wildshape (bear, fox, rhino, wolf, steenmarter), has Staff of Defense, small dragon companion
-- **Lyssandra** (Ranged/Magic) — Has wings (Aasimar?), crossbow user, potion crafter
-- **Fa Tso** (Monk) — Sake-loving monk, unarmed fighter
-- **Anke / Sam** — Additional party members appearing in later sessions
+| Character | Player | Race/Class | Notes |
+|-----------|--------|------------|-------|
+| **Dárin / Darrin** | Egon | Dwarf | Wears orcish armor, Scottish accent, warhammer |
+| **Zelaerys / Zalaris** | Sam | Half-Orc, Melee fighter | Magical greataxe (+1) |
+| **Cappy** | Anouk | Druid | Wildshape (bear, fox, rhino, wolf, steenmarter), Staff of Defense, small dragon companion |
+| **Lyssandra / Lissandra** | Anke | Ranged/Magic (Aasimar?) | Has wings, crossbow user, potion crafter |
+| **Fa Tso** | Jarrik or Mario | Monk | Sake-loving, unarmed fighter |
 
 ## Key NPCs
 
