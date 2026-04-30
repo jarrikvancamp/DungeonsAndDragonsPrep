@@ -9,6 +9,42 @@ tags: [campaign-log, phandelver, shattered-obelisk, neverwinter]
 
 # Campaign Session Notes — Phandelver and Below: The Shattered Obelisk
 
+## Table of Contents
+
+- [Party Members](#party-members)
+- [Key NPCs](#key-npcs)
+- [Campaign Timeline](#campaign-timeline)
+  - [Session 0: Marketplace Incident & Quest Setup](#session-0-marketplace-incident--quest-setup)
+  - [Session 1: The Hunt in Neverwinter Wood](#session-1-the-hunt-in-neverwinter-wood)
+  - [Session 2: Fight in the Woods](#session-2-fight-in-the-woods)
+  - [Session 3: Into the Caves](#session-3-into-the-caves)
+  - [Session 4: Towards Phandalin](#session-4-towards-phandalin)
+  - [Session 5: The Sleeping Giant](#session-5-the-sleeping-giant)
+  - [Session 6: The Bugbears](#session-6-the-bugbears)
+  - [Session 7: The Gamblers, the Wizard and the Glass Staff](#session-7-the-gamblers-the-wizard-and-the-glass-staff)
+  - [Session 8: Rescue and Aftermath](#session-8-rescue-and-aftermath)
+  - [Session 9: The Banshee's Lair](#session-9-the-banshees-lair)
+  - [Session 10: Old Owl Well & Orc Camp](#session-10-old-owl-well--orc-camp)
+  - [Session 11: Return & Chase](#session-11-return--chase)
+  - [Session 12: Journey Through Thundertree Ruins](#session-12-journey-through-thundertree-ruins)
+  - [Session 13: Thundertree Continued](#session-13-thundertree-continued)
+  - [Session 14: The Dragon Fight & Journey Home](#session-14-the-dragon-fight--journey-home)
+  - [Session 15: Cragmaw Castle](#session-15-cragmaw-castle)
+  - [Session 16: Wave Echo Cave](#session-16-wave-echo-cave)
+  - [Session 17: The Snake](#session-17-the-snake)
+  - [Session 18: New Beginnings in Phandalin](#session-18-new-beginnings-in-phandalin)
+  - [Session 19: Beneath the Well](#session-19-beneath-the-well)
+  - [Session 20: Zorzula's Rest & Neverwinter](#session-20-zorzulas-rest--neverwinter)
+  - [Session 21: The Blue Lake District](#session-21-the-blue-lake-district)
+  - [Session 22: The Prism Ritual](#session-22-the-prism-ritual)
+  - [Session 23: The Mysterious Toymaker Factory](#session-23-the-mysterious-toymaker-factory-christmas)
+  - [Session 24: Return to Zorzula's Rest](#session-24-return-to-zorzulas-rest)
+  - [Session 25: Bandit Chase & Return to Phandalin](#session-25-bandit-chase--return-to-phandalin)
+  - [Session 26: Deep into Zorzula's Rest](#session-26-deep-into-zorzulas-rest)
+- [Key Locations Reference](#key-locations-reference)
+- [Active Plot Threads](#active-plot-threads)
+- [Party Level Progression](#party-level-progression)
+
 ## Party Members
 
 - **Dárin** (Dwarf) — Wears orcish armor, Scottish accent, has warhammer
